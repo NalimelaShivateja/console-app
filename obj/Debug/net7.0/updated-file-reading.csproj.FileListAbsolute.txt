@@ -1,0 +1,14 @@
+D:\Paltech\updated-file-reading\bin\Debug\net7.0\updated-file-reading.exe
+D:\Paltech\updated-file-reading\bin\Debug\net7.0\updated-file-reading.deps.json
+D:\Paltech\updated-file-reading\bin\Debug\net7.0\updated-file-reading.runtimeconfig.json
+D:\Paltech\updated-file-reading\bin\Debug\net7.0\updated-file-reading.dll
+D:\Paltech\updated-file-reading\bin\Debug\net7.0\updated-file-reading.pdb
+D:\Paltech\updated-file-reading\obj\Debug\net7.0\updated-file-reading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paltech\updated-file-reading\obj\Debug\net7.0\updated-file-reading.AssemblyInfoInputs.cache
+D:\Paltech\updated-file-reading\obj\Debug\net7.0\updated-file-reading.AssemblyInfo.cs
+D:\Paltech\updated-file-reading\obj\Debug\net7.0\updated-file-reading.csproj.CoreCompileInputs.cache
+D:\Paltech\updated-file-reading\obj\Debug\net7.0\updated-file-reading.dll
+D:\Paltech\updated-file-reading\obj\Debug\net7.0\refint\updated-file-reading.dll
+D:\Paltech\updated-file-reading\obj\Debug\net7.0\updated-file-reading.pdb
+D:\Paltech\updated-file-reading\obj\Debug\net7.0\updated-file-reading.genruntimeconfig.cache
+D:\Paltech\updated-file-reading\obj\Debug\net7.0\ref\updated-file-reading.dll

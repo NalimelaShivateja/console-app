@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "updated-file-reading/1.0.0": {
+        "runtime": {
+          "updated-file-reading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "updated-file-reading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
